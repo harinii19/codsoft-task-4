@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: black;
+  }
+  
+  .logo {
+    font-size: 2em;
+    margin: 0;
+    color: white;
+  }
+  
+  .purple{
+    color: #8714d8;
+  }
