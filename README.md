@@ -71,4 +71,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # codsoft-task-4
->>>>>>> 872826da5f07ded86fce43d88e13e6b99469b331
+# QUIZ APP USING REACT
+This is a React-based Quiz App designed to create, manage, and take quizzes. It allows users to create new quizzes, view a list of available quizzes, and take quizzes by answering questions.
+
+## Features
+
+- **Create Quiz**: Add new quizzes with questions and options.
+- **Edit Quiz**: Modify existing quizzes.
+- **Quiz List**: View and select quizzes from a list.
+- **Take Quiz**: Answer questions and submit responses.
+
+# Project Structure
+**src/**
+- **components/** - Contains React components for various parts of the application.
+- **pages/** - Contains the pages used in routing.
+- **App.js** - Main application file that includes routes and layout.
+- **index.js** - Entry point of the React application.
+
+**public/**
+- **index.html** - The HTML template used for the app.
+
+# Usage
+- **HomePage:** View the landing page of the application.
+- **Create Quiz:** Navigate to the create quiz page to add a new quiz.
+- **Quiz List:** View and select quizzes from the list.
+- **Edit Quiz:** Modify existing quizzes by selecting them from the list.
+- **Take Quiz:** Answer the questions in the quiz and submit your answers.
+
+# Technologies Used
+- **React:** JavaScript library for building user interfaces.
+- **CSS:** Styling the application.
+- **JavaScript:** Programming language used for logic and interactivity.
